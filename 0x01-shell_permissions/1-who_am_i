@@ -1,0 +1,4 @@
+#!/bin/bash
+julien@ubuntu:/tmp/h$ ./1-who_am_i
+julien
+Julien@ubuntu:/tmp/h$
