@@ -1,4 +1,2 @@
 #!/bin/bash 
-julien@ubuntu:/tmp/h$ ./2-groups
-julien adm cdrom sudo dip plugdev Ipadmin sambashare
-julien@ubuntu:/tmp/h$
+groups
