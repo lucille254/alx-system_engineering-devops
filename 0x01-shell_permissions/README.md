@@ -1,1 +1,1 @@
-prints the effective username of he current user
+changes the owner of the file
