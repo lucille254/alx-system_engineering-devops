@@ -1,1 +1,1 @@
-reverse its input
+displays users and their home directories
