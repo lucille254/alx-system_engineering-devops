@@ -1,1 +1,1 @@
-list of words
+displays lines containing the pattern "root"
