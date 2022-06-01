@@ -1,1 +1,1 @@
-displays lines containing pattern
+display files that dont contain bin
