@@ -1,1 +1,1 @@
-converts a number from base2 to base 10
+prints combinations of two letters
