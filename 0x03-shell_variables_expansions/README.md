@@ -1,1 +1,1 @@
-lists local and environment variables
+creates global variable
