@@ -1,1 +1,1 @@
-prints results of addition
+prints results of division
